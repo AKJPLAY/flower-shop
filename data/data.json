@@ -1,0 +1,92 @@
+[
+  {
+    "id": 0,
+    "flowerName": "Wilted Flower",
+    "image": "🥀",
+    "from": "USA",
+    "quantity": "6 🥀",
+    "price": "24.00",
+    "description": "A flower that has wilted, or is dying. Generally depicted as a limp, faded red rose drooping over the to the right on a dried-out, green stem, shedding a petal.May be used to express such sad sentiments as heartbreak, though sometimes with a sense of irony. Sometimes used to represent a rose or other flower, with positive connotations.",
+    "backgroundColor" : "#9167BE"
+  },
+  {
+    "id": 1,
+    "flowerName": "Blossom",
+    "image": "🌼",
+    "from": "Portugal",
+    "quantity": "3 🌼",
+    "price": "16.50",
+    "description": "A flower that has blossomed. Depicted as a flower with white or yellow petals, as a daisy, with a golden center.Commonly used for Valentine’s Day, Mother’s Day, and other special occasions. May be more generally used to convey such ideas as love, appreciation, and happiness. Also used as a yellow or white accent color.",
+    "backgroundColor" : "#FD6262"
+  },
+  {
+    "id": 2,
+    "flowerName": "Baby Carrots",
+    "image": "💐",
+    "from": "France",
+    "quantity": "20 💐",
+    "price": "35.00",
+    "description": "A bouquet of brightly colored flowers. Generally depicted as a collection of pink and yellow flowers with green stems tied together. Positioned at various angles across platforms.Commonly used for Valentine’s Day, Mother’s Day, and other special occasions. May also be more generally used to express such sentiments as love, appreciation, and happiness.",
+    "backgroundColor" : "#00C07F"
+  },
+  {
+    "id": 3,
+    "flowerName": "Sunflower",
+    "image": "🌻",
+    "from": "Germany",
+    "quantity": "2 🌻",
+    "price": "27.00",
+    "description": "A sunflower, a tall, round flower with large yellow petals. Depicted as a single, vertical sunflower with a large, dark-brown center on a green stem.Commonly used for Mother’s Day and other special occasions. May be more generally used to convey such sentiments happiness and love. Also used as a yellow accent color and in association with summer and farming.",
+    "backgroundColor" : "#A79344"
+  },
+  {
+    "id": 4,
+    "flowerName": "Hibiscus",
+    "image": "🌺",
+    "from": "Germany",
+    "quantity": "2 🌺",
+    "price": "22.00",
+    "description": "A pink hibiscus, a flower that grows in warm climates. Depicted as a single, deep-pink hibiscus flower with green leaves and prominent, yellow stamen.Commonly used for Valentine’s Day, Mother’s Day, and other special occasions. May be more generally used to convey such ideas as love, happiness, and beauty. Also used as a pink accent color and in association with Hawaii and other Polynesian places and cultures.",
+    "backgroundColor" : "#0DCF22"
+  },
+  {
+    "id": 5,
+    "flowerName": "Sunflower",
+    "image": "🌹",
+    "from": "Germany",
+    "quantity": "2 🌹",
+    "price": "15.00",
+    "description": "A red rose. Depicted as a single, vertical red rose on a green stem.Commonly used for Valentine’s Day, Mother’s Day, and other special occasions. May be more generally used to express such sentiments as love and romance. Also used as a symbol of socialism or as a red accent color.",
+    "backgroundColor" : "#FCD900"
+  },
+  {
+    "id": 6,
+    "flowerName": "Cherry Blossom",
+    "image": "🌸",
+    "from": "Germany",
+    "quantity": "2 🌸",
+    "price": "30.00",
+    "description": "The pink flower of a cherry blossom tree. Depicted as a single, light-pink cherry blossom with five, notched petals and red-tipped stamens in a yellow or white center.A traditional symbol in Japan, where the flower is called sakura and celebrated in annual viewings.Commonly used for Valentine’s Day, Mother’s Day, and other special occasions. May be more generally used to express such ideas as love and beauty. Also used as a pink accent color.",
+    "backgroundColor" : "#8000B1"
+  },
+  {
+    "id": 7,
+    "flowerName": "Rosette",
+    "image": "🏵️",
+    "from": "Germany",
+    "quantity": "8 🏵️",
+    "price": "20.00",
+    "description": "A rosette, a stylized, flower-shaped decoration often presented as an award with a ribbon or (military) medal. Appears as a motif in ancient cultures. Generally depicted as a circular, yellow-and-orange flower.Commonly used for Valentine’s Day, Mother’s Day, and other special occasions. May be more generally used to express such ideas as love, happiness, and beauty. Also used as a yellow accent color.",
+    "backgroundColor" : "#FB6300"
+  },
+  {
+    "id": 8,
+    "flowerName": "Cherry Blossom",
+    "image": "🌷",
+    "from": "Germany",
+    "quantity": "10 🌷",
+    "price": "15.00",
+    "description": "A pink tulip flower. Depicted as a single, vertical pink tulip on a green stem.Commonly used for Valentine’s Day, Mother’s Day, and other special occasions. May be more generally used to express such sentiments as love, appreciation, and happiness. Also used in association with the Netherlands and as a pink accent color.",
+    "backgroundColor" : "#C56B03"
+  }
+]
